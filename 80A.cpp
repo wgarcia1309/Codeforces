@@ -1,3 +1,5 @@
+//A. Panoramix's Prediction
+//http://codeforces.com/problemset/problem/80/A
 #include<iostream>
 #include<math.h>
 using namespace std;
